@@ -1,0 +1,1 @@
+both mae and mape here are individual playerwise averages based on predicted and actual fantasy score values for that player.
